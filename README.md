@@ -140,9 +140,8 @@
 </html>```
 
 ## OUTPUT
-<img width="959" alt="table-output1" src="https://github.com/vairalakshmi1811/Ex03/assets/165985148/d08d5714-5408-43f8-b114-949a4a26ec77">
-<img width="959" alt="table-output2" src="https://github.com/vairalakshmi1811/Ex03/assets/165985148/42c7a3c3-4a82-43a0-a4c0-6496830650cc">
-
+table-output1.png
+table-output2.png
 
 ## RESULT
  Slot time table is created successfully.
