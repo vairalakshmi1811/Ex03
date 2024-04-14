@@ -142,6 +142,5 @@
 ## OUTPUT
 table-output1.png
 table-output2.png
-
 ## RESULT
  Slot time table is created successfully.
