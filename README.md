@@ -25,8 +25,8 @@
 ### STEP-7
   Open the file in a browser and verify the output.
   
-## CODE
-```<html>
+```## CODE
+<html>
     <head>
         <title>time table</title>
     </head>
