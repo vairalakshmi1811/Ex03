@@ -25,7 +25,8 @@
 ### STEP-7
   Open the file in a browser and verify the output.
   
-```## CODE
+## CODE
+```
 <html>
     <head>
         <title>time table</title>
@@ -137,10 +138,14 @@
          </tr>
        </table>
     </body>
-</html>```
+</html>
+```
 
 ## OUTPUT
-table-output1.png
+<img width="959" alt="table-output1" src="https://github.com/vairalakshmi1811/Ex03/assets/165985148/222a6e17-24cd-45cf-b491-7c0445a4838a">
+<img width="959" alt="table-output2" src="https://github.com/vairalakshmi1811/Ex03/assets/165985148/3397e415-355b-4dea-a86c-2cd8c275ec84">
+
+
 table-output2.png
 ## RESULT
  Slot time table is created successfully.
