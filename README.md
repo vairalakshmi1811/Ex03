@@ -1,4 +1,5 @@
 # Ex.03 Slot Time Table
+## DATE:08/04/2024
 ## AIM
   To create slot time table.
 
@@ -25,10 +26,122 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```<html>
+    <head>
+        <title>time table</title>
+    </head>
+    <body>
+        <img src="D:\official\sec logo.png" height="200" width="1200px"/>
+        <h1 align="center">SLOT TIME TABLE</h1>
+        <h2 align="center">VAIRALAKSHMI(212223250024)</h2>
+        <table border="5" width="85%" height="30%" align="center" cellspacing="4.5" cellpadding="3" bgcolor="pink">
+            <tr bgcolor="green">
+                <th>TIMING/DAYS</th>
+                <th>MONDAY</th>
+                <th>TUESDAY</th>
+                <th>WEDNESDAY</th>
+                <th>THURSDAY</th>
+                <th>FRIDAY</th>
+                <th>SATURDAY</th>
+            </tr>
+            <tr>
+                <th bgcolor="green">08-10</th>
+                <th>Horticulture</th>
+                <th>-</th>
+                <th>engineering mechanis</th>
+                <th>agronomy</th>
+                <th>agronomy</th>
+                <th>survey</th>
+            </tr>
+            <tr> 
+                <th bgcolor="green">10-12</th>
+                <th>survey</th>
+                <th>complex variables</th>
+                <th>survey</th>
+                <th>web designing</th>
+                <th>web designing</th>
+                <th>fluid mechanics</th>
+            </tr>
+            <tr> 
+                <th bgcolor="green">12-01</th>
+                <td  colspan="6" align="center" bgcolor="skyblue" >LUNCH</td>
+            <tr>
+                <th bgcolor="green">01-03</th>
+                <th>fluid mechanis</th>
+                <th>Horticulture</th>
+                <th>creative skills</th>
+                <th>Theory of machines</th>
+                <th>complex variables</th>
+                <th>-</th>
+            </tr>
+            <tr><th bgcolor="green">03-05</th>
+                <th>-</th>
+                <th>-</th>
+                <th>-</th>
+                <th>-</th>
+                <th>-</th>
+                <th>engineering mechanics</th>
 
+            </tr>
+       </table><br>
+       <table border="5" align="center" width="750px" bgcolor="skyblue">
+        <tr align="center" bgcolor="yellow">
+            <td>S.NO</td>
+            <td>COURSE CODE</td>
+            <td>COURSE NAME</td>
+        </tr>
+        <tr>
+            <th>01</th>
+            <th>19AG201</th>
+            <th>Principles of agronomy</th>
+        </tr>
+        <tr>
+            <th>02</th>
+            <th>19AG203</th>
+            <th>Principles of Horticultural crops and plant protection</th>
+        </tr>
+        <tr>
+            <th>03</th>
+            <th>19AG301</th>
+            <th>Fluid mechanics and open channel hydraulis</th>
+        </tr>
+        <tr>
+            <th>04</th>
+            <th>19AG304</th>
+            <th>Theory of machines</th>
+        </tr>
+        <tr>
+            <th>05</th>
+            <th>19AG306</th>
+            <th>Surveying and levelling</th>
+        </tr>
+        <tr>
+            <th>06</th>
+            <th>19AG310</th>
+            <th>Engineering mechanics</th>
+        </tr>
+        <tr>
+            <th>07</th>
+            <th>19CS307</th>
+            <th>Web designing and internet applications</th>
+        </tr>
+        <tr>
+            <th>08</th>
+            <th>19EY702</th>
+            <th>Creative skills for communication</th>
+         </tr>
+         <tr>
+            <th>09</th>
+            <th>19MA203</th>
+            <th>Complex variables and differential equations</th>
+         </tr>
+       </table>
+    </body>
+</html>```
 
 ## OUTPUT
-
+C:\Users\VAIRALAKSHMI\Pictures\Screenshots\table-output1.png
+c:\Users\VAIRALAKSHMI\Pictures\Screenshots\table-output2.png
 
 ## RESULT
  Slot time table is created successfully.
